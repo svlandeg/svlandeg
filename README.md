@@ -10,6 +10,7 @@ I'm passionate about open-source 🐍. Some of the projects I've helped maintain
 * FastAPI and friends by Tiangolo, including [FastAPI](https://github.com/fastapi/fastapi) to build APIs, [Typer](https://github.com/tiangolo/typer) to build CLIs, [SQLModel](https://github.com/fastapi/sqlmodel) to interact with SQL databases from Python, and several others (2024 - now)
 * Some personal vibe-coded hobby apps, including a fun language learning tool for my Arabic lessons, and a simple calorie tracker. (2025 - now)
 * Explosion's NLP framework [spaCy](https://github.com/explosion/spaCy) and deep learning library [Thinc](https://github.com/explosion/thinc) (2019 - 2023)
+* Huggingface's [neuralcoref](https://github.com/huggingface/neuralcoref), a Coreference Resolution system they built before turning their attention elsewhere... (2019 - 2021)
 * Created & published now entirely outdated open-source software back at uni (2007 - 2015)
 
 Shoot me an [email](https://oxykodit.com/#footer) if you'd like to work together!
