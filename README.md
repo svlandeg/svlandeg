@@ -7,7 +7,9 @@ I am a Software Engineer who just loves coding, debugging, documenting, testing,
 I'm passionate about open-source 🐍. Some of the projects I've helped maintain include:
 * Andrej Karpathy's [autoresearch](https://github.com/karpathy/autoresearch) to let AI Agents run research autonomously (March 2026 - now)
 * Andrej Karpathy's [nanochat](https://github.com/karpathy/nanochat): an educational repo implementing GPT2 capabilities from scratch (Oct 2025 - now)
-* FastAPI and friends by Tiangolo, including [Typer](https://github.com/tiangolo/typer) to build CLIs, [FastAPI](https://github.com/fastapi/fastapi) to build APIs, [SQLModel](https://github.com/fastapi/sqlmodel) to interact with SQL databases from Python, and several others (2024 - now)
-* Some personal vibe-coded hobby apps, including a "fun" language learning tool for my Arabic lessons, and a simple calorie tracker. (2025 - now)
-* Explosion's NLP library [spaCy](https://github.com/explosion/spaCy) and deep learning library [Thinc](https://github.com/explosion/thinc) (2019 - 2023)
+* FastAPI and friends by Tiangolo, including [FastAPI](https://github.com/fastapi/fastapi) to build APIs, [Typer](https://github.com/tiangolo/typer) to build CLIs, [SQLModel](https://github.com/fastapi/sqlmodel) to interact with SQL databases from Python, and several others (2024 - now)
+* Some personal vibe-coded hobby apps, including a fun language learning tool for my Arabic lessons, and a simple calorie tracker. (2025 - now)
+* Explosion's NLP framework [spaCy](https://github.com/explosion/spaCy) and deep learning library [Thinc](https://github.com/explosion/thinc) (2019 - 2023)
 * Created & published now entirely outdated open-source software back at uni (2007 - 2015)
+
+Shoot me an [email](https://oxykodit.com/#footer) if you'd like to work together!
