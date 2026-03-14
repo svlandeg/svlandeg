@@ -13,4 +13,4 @@ I'm passionate about open-source 🐍. Some of the projects I've helped maintain
 * Huggingface's [neuralcoref](https://github.com/huggingface/neuralcoref), a Coreference Resolution system they built before turning their attention elsewhere... (2019 - 2021)
 * Created & published now entirely outdated open-source software back at uni (2007 - 2015)
 
-Shoot me an [email](https://oxykodit.com/#footer) if you'd like to work together!
+If you want to follow my writings about the day-to-day life of an OSS maintainer, checkout [The Diff & The Merge](https://oxykodit.substack.com/) substack!
