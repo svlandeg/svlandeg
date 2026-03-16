@@ -13,4 +13,12 @@ I'm passionate about open-source 🐍. Some of the projects I've helped maintain
 * Huggingface's [neuralcoref](https://github.com/huggingface/neuralcoref), a Coreference Resolution system they built before turning their attention elsewhere... (2019 - 2021)
 * Created & published now entirely outdated open-source software back at uni (2007 - 2015)
 
+Other OS tools I know quite well / use regularly:
+* pytorch, transformers, tokenizers, datasets, kernels
+* wandb, matplotlib, numpy, scipy
+* pydantic, rich, click
+* sentence-transformers, scispacy, scikit-learn
+* ruff, ty, black, mypy, coverage
+* uv, pip, pytest, smokeshow, setuptools
+
 If you want to follow my writings about the day-to-day life of an OSS maintainer, checkout [The Diff & The Merge](https://oxykodit.substack.com/) substack!
