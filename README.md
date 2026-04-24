@@ -6,7 +6,7 @@ I am a Software Engineer who just loves coding, debugging, documenting, testing,
 
 I'm passionate about open-source 🐍
 
-### Some of the OS projects I've helped maintain include:
+### Some of the OS projects I help(ed) maintain include:
 * Andrej Karpathy's [autoresearch](https://github.com/karpathy/autoresearch) to let AI Agents run research autonomously (March 2026 - now)
 * Andrej Karpathy's [nanochat](https://github.com/karpathy/nanochat): an educational repo implementing GPT2 capabilities from scratch (Oct 2025 - now)
 * FastAPI and friends by Tiangolo, including [FastAPI](https://github.com/fastapi/fastapi) to build APIs, [Typer](https://github.com/tiangolo/typer) to build CLIs, [SQLModel](https://github.com/fastapi/sqlmodel) to interact with SQL databases from Python, and several others (2024 - now)
